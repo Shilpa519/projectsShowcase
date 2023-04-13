@@ -1,0 +1,10 @@
+.header-container {
+  background-color: #f1f5f9;
+  max-width: 100%;
+}
+
+.website-logo {
+  width: 250px;
+  height: 100px;
+  margin-left: 96px;
+}
